@@ -1,1 +1,1 @@
-# patrones-creacionales
+# patrones-estructurales
